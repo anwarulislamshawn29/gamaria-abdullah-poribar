@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gamaria-abdullah-poribar/static/css/main.3601d152.css",
-    "main.js": "/gamaria-abdullah-poribar/static/js/main.fcf65f61.js",
+    "main.css": "/gamaria-abdullah-poribar/static/css/main.3dcb1fcc.css",
+    "main.js": "/gamaria-abdullah-poribar/static/js/main.359b04d1.js",
     "static/js/453.6cf463f4.chunk.js": "/gamaria-abdullah-poribar/static/js/453.6cf463f4.chunk.js",
     "index.html": "/gamaria-abdullah-poribar/index.html",
-    "main.3601d152.css.map": "/gamaria-abdullah-poribar/static/css/main.3601d152.css.map",
-    "main.fcf65f61.js.map": "/gamaria-abdullah-poribar/static/js/main.fcf65f61.js.map",
+    "main.3dcb1fcc.css.map": "/gamaria-abdullah-poribar/static/css/main.3dcb1fcc.css.map",
+    "main.359b04d1.js.map": "/gamaria-abdullah-poribar/static/js/main.359b04d1.js.map",
     "453.6cf463f4.chunk.js.map": "/gamaria-abdullah-poribar/static/js/453.6cf463f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3601d152.css",
-    "static/js/main.fcf65f61.js"
+    "static/css/main.3dcb1fcc.css",
+    "static/js/main.359b04d1.js"
   ]
 }

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gamaria-abdullah-poribar.git/static/css/main.acf5af23.css",
-    "main.js": "/gamaria-abdullah-poribar.git/static/js/main.32913cac.js",
-    "static/js/453.6cf463f4.chunk.js": "/gamaria-abdullah-poribar.git/static/js/453.6cf463f4.chunk.js",
-    "index.html": "/gamaria-abdullah-poribar.git/index.html",
-    "main.acf5af23.css.map": "/gamaria-abdullah-poribar.git/static/css/main.acf5af23.css.map",
-    "main.32913cac.js.map": "/gamaria-abdullah-poribar.git/static/js/main.32913cac.js.map",
-    "453.6cf463f4.chunk.js.map": "/gamaria-abdullah-poribar.git/static/js/453.6cf463f4.chunk.js.map"
+    "main.css": "/gamaria-abdullah-poribar/static/css/main.acf5af23.css",
+    "main.js": "/gamaria-abdullah-poribar/static/js/main.fcf65f61.js",
+    "static/js/453.6cf463f4.chunk.js": "/gamaria-abdullah-poribar/static/js/453.6cf463f4.chunk.js",
+    "index.html": "/gamaria-abdullah-poribar/index.html",
+    "main.acf5af23.css.map": "/gamaria-abdullah-poribar/static/css/main.acf5af23.css.map",
+    "main.fcf65f61.js.map": "/gamaria-abdullah-poribar/static/js/main.fcf65f61.js.map",
+    "453.6cf463f4.chunk.js.map": "/gamaria-abdullah-poribar/static/js/453.6cf463f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acf5af23.css",
-    "static/js/main.32913cac.js"
+    "static/js/main.fcf65f61.js"
   ]
 }

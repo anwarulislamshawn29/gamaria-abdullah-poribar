@@ -6,6 +6,9 @@
   margin: auto;
   position: relative;
 }
+.title {
+ text-align: center;
+}
 
 .f3 .cursor-pointer {
   cursor: pointer;
@@ -18,6 +21,7 @@
 }
 .f3 svg.main_svg text {
   fill: currentColor;
+  overflow: auto;
 }
 .f3 rect.card-female, .f3 .card-female .card-body-rect, .f3 .card-female .text-overflow-mask {
   fill: lightpink;
@@ -27,16 +31,28 @@
 }
 .f3 .card-genderless .card-body-rect, .f3 .card-genderless .text-overflow-mask {
   fill: lightgray;
+
 }
 .f3 .card_add .card-body-rect {
   fill: #3b5560;
-  stroke-width: 4px;
+  stroke-width: auto;
   stroke: #fff;
   cursor: pointer;
 }
 .f3 g.card_add text {
   fill: #fff;
+  overflow: auto !important;
 }
+/* styles.css */
+.card {
+  width: 220px;
+  height: 70px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+  word-wrap: break-word;
+}
+
 .f3 .card-main {
   stroke: #000;
 }
